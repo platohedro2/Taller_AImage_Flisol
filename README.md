@@ -22,6 +22,15 @@
 [Open Cv](https://opencv.org/)
 
 
+## Plataformas 
+
+[Colab]()
+
+[Hugging face](https://huggingface.co/)
+
+[Kaggle](https://www.kaggle.com/)
+
+[Rplicate](https://replicate.com/)
 
 
 ## Herramientas de generación 
@@ -39,9 +48,15 @@
 
 [Leonardo]()
 
-[Hugging face]()
+
+[Re iamge](https://clipdrop.co/stable-diffusion-reimagine)
+
+[SD Infinty](https://huggingface.co/spaces/lnyan/stablediffusion-infinity)
 
 [FUll pack tools](https://github.com/steven2358/awesome-generative-ai#image)
+
+
+
 
 
 
