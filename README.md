@@ -6,6 +6,10 @@
 
 
 
+## Antecedentes Historicos
+
+[El camino del software. Breve historia de la Inteligencia Artificial 3](https://www.linuxadictos.com/el-camino-del-software-breve-historia-de-la-inteligencia-artificial-3.html)
+
 
 ## Herramientas de base 
 
