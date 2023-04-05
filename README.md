@@ -13,6 +13,10 @@
 [La primera edad de oro. Breve historia de la Inteligencia Artificial 4](https://www.linuxadictos.com/la-primera-edad-de-oro-breve-historia-de-la-inteligencia-artificial-4.html)
 
 
+# AI Y cambio climatico 
+
+[Referente 1](https://www.biodiversidadla.org/Recomendamos/Inteligencia-artificial-aumenta-el-caos-climatico)
+
 ## Herramientas de base 
 
 [pytorch](https://pytorch.org/)
