@@ -31,6 +31,8 @@
 
 [Open Cv](https://opencv.org/)
 
+[Laion](https://laion.ai/about/)
+
 
 ## Plataformas 
 
