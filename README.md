@@ -54,12 +54,9 @@
 
 [Dream studio](https://beta.dreamstudio.ai/)
 
-[Dreamlike]()
+[Dreamlike](https://dreamlike.art/)
 
-[Playground]()
-
-[Leonardo]()
-
+[Playground](https://playgroundai.com/)
 
 [Re iamge](https://clipdrop.co/stable-diffusion-reimagine)
 
